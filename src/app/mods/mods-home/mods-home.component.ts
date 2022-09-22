@@ -16,3 +16,4 @@ export class ModsHomeComponent implements OnInit {
     this.modalOpen = !this.modalOpen
   }
 }
+
